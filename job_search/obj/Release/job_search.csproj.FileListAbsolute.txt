@@ -1,0 +1,9 @@
+C:\Users\Patate\source\repos\job_search\job_search\bin\job_search.dll.config
+C:\Users\Patate\source\repos\job_search\job_search\bin\job_search.dll
+C:\Users\Patate\source\repos\job_search\job_search\bin\job_search.pdb
+C:\Users\Patate\source\repos\job_search\job_search\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patate\source\repos\job_search\job_search\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patate\source\repos\job_search\job_search\obj\Release\job_search.csproj.CoreCompileInputs.cache
+C:\Users\Patate\source\repos\job_search\job_search\obj\Release\job_search.dll
+C:\Users\Patate\source\repos\job_search\job_search\obj\Release\job_search.pdb
+C:\Users\Patate\source\repos\job_search\job_search\obj\Release\job_search.csprojResolveAssemblyReference.cache
